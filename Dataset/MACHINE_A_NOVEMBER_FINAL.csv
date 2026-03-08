@@ -1,0 +1,463 @@
+Group Name,Machine,Transaction Date,Transaction No,Slot No,Product Code,Product Name,Service,Status,Delivery,Category,Price
+Master,Machine A,28-11-25 17:04,3995547,31,UMMIR4,Chicken Tandoori with Coriander Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,28-11-25 14:10,3992640,31,UMMIR4,Chicken Tandoori with Coriander Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,28-11-25 13:32,3991769,37,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,28-11-25 13:17,3990658,17,UMMIR13,Spicy Chicken with Pearl CousCous,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,28-11-25 12:36,3988280,51,UMMIS5,Mixed Beans & CousCous Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,28-11-25 11:00,3986701,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,28-11-25 10:53,3986607,64,UMMIR36,Rajma Curry with White Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,28-11-25 09:20,3985570,37,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,27-11-25 16:32,3983200,8,UMMIJ17,Coconut Punch Cold Pressed Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,27-11-25 15:03,3980772,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,27-11-25 12:13,3970140,37,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,27-11-25 12:04,3968917,27,UMMIR7,Sweet And Sour Prawn Teriyaki Noodles ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,27-11-25 11:17,3967841,17,UMMIR13,Spicy Chicken with Pearl CousCous,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,27-11-25 07:17,3963538,60,UMMIB1,Purple Power Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,26-11-25 23:02,3961338,9,UMMIM10,Laban Mint Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,26-11-25 22:59,3961298,10,UMMIJ1,Carrot Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,26-11-25 21:51,3961005,60,UMMIB1,Purple Power Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,26-11-25 19:09,3960480,60,UMMIB1,Purple Power Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,26-11-25 19:02,3960373,9,UMMIM10,Laban Mint Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,26-11-25 19:02,3960219,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,26-11-25 18:26,3959979,64,UMMIR36,Rajma Curry with White Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,26-11-25 16:29,3958534,8,UMMIJ17,Coconut Punch Cold Pressed Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,26-11-25 16:08,3957622,37,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,26-11-25 16:07,3957599,17,UMMIR13,Spicy Chicken with Pearl CousCous,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,26-11-25 15:58,3957100,8,UMMIJ17,Coconut Punch Cold Pressed Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,26-11-25 15:05,3955156,17,UMMIR13,Spicy Chicken with Pearl CousCous,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,26-11-25 14:49,3954653,10,UMMIJ1,Carrot Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,26-11-25 14:48,3954555,10,UMMIJ1,Carrot Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,26-11-25 14:15,3953317,10,UMMIJ1,Carrot Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,26-11-25 14:13,3953237,31,UMMIR4,Chicken Tandoori with Coriander Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,26-11-25 14:09,3952893,31,UMMIR4,Chicken Tandoori with Coriander Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,26-11-25 13:03,3947024,9,UMMIM10,Laban Mint Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,26-11-25 13:01,3946844,10,UMMIJ1,Carrot Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,26-11-25 12:58,3946414,37,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,26-11-25 12:40,3944582,8,UMMIJ17,Coconut Punch Cold Pressed Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,26-11-25 12:23,3943694,37,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,26-11-25 11:21,3940054,27,UMMIR7,Sweet And Sour Prawn Teriyaki Noodles ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,26-11-25 11:08,3939250,67,UMMIC3,Strawberry Cuts ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,26-11-25 11:04,3939075,50,UMMIB5,Peanut Butter Strawberry Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,26-11-25 09:42,3935976,50,UMMIB5,Peanut Butter Strawberry Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,26-11-25 09:14,3935195,27,UMMIR7,Sweet And Sour Prawn Teriyaki Noodles ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,25-11-25 19:54,3930224,10,UMMIJ1,Carrot Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,25-11-25 19:49,3930154,8,UMMIJ17,Coconut Punch Cold Pressed Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,25-11-25 18:32,3929103,17,UMMIR13,Spicy Chicken with Pearl CousCous,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,25-11-25 17:16,3927931,67,UMMIC3,Strawberry Cuts ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,25-11-25 14:13,3920583,10,UMMIJ1,Carrot Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,25-11-25 13:55,3919278,21,UMMIS3,Chicken & Yuzu Poke Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,25-11-25 13:44,3918820,37,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,25-11-25 13:39,3918081,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,25-11-25 12:06,3908826,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,25-11-25 09:26,3898939,21,UMMIS3,Chicken & Yuzu Poke Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,25-11-25 09:16,3898548,27,UMMIR7,Sweet And Sour Prawn Teriyaki Noodles ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,25-11-25 09:12,3898156,10,UMMIJ1,Carrot Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,24-11-25 19:48,3895783,8,UMMIJ17,Coconut Punch Cold Pressed Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,24-11-25 19:47,3895647,14,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,24-11-25 19:12,3895338,31,UMMIR4,Chicken Tandoori with Coriander Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,24-11-25 18:04,3893546,37,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,24-11-25 17:58,3893155,27,UMMIR7,Sweet And Sour Prawn Teriyaki Noodles ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,24-11-25 17:07,3891686,57,UMMIV1,Falafel Wrap,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,24-11-25 16:21,3890281,60,UMMIB1,Purple Power Pot,Cash,Successful,Delivery,Vegeterian,Affordable
+Master,Machine A,24-11-25 16:17,3890195,8,UMMIJ17,Coconut Punch Cold Pressed Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,24-11-25 16:13,3890035,37,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,24-11-25 15:47,3888544,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,24-11-25 12:32,3866517,8,UMMIJ17,Coconut Punch Cold Pressed Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,24-11-25 12:00,3863567,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,24-11-25 11:59,3863245,10,UMMIJ1,Carrot Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,24-11-25 11:13,3858968,57,UMMIV1,Falafel Wrap,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,24-11-25 10:29,3857756,57,UMMIV1,Falafel Wrap,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,24-11-25 09:55,3855502,61,UMMIS7,Pumpkin & Beetroot Salad with Orange Vinaigrette,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,22-11-25 19:34,3850652,31,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,22-11-25 17:46,3850235,10,UMMIM1,Mixed Berry Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,22-11-25 17:20,3850057,54,UMMIR35,Yellow Dal Tadka with Basmati Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,22-11-25 17:11,3849932,21,UMMIS6,Prawn Mango Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,22-11-25 15:57,3848877,64,UMMIR35,Yellow Dal Tadka with Basmati Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,22-11-25 15:20,3848571,17,UMMIF1,Banana Berry Acai Bowl  ,Cash,Successful,Delivery,Gluten - Free,Affordable
+Master,Machine A,22-11-25 15:14,3848432,67,UMMIC2,Watermelon Marbles ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,22-11-25 14:46,3848104,17,UMMIF1,Banana Berry Acai Bowl  ,Cash,Successful,Delivery,Gluten - Free,Affordable
+Master,Machine A,22-11-25 14:19,3847765,24,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,22-11-25 12:53,3846546,51,UMMIS12,Feta & Nut Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,22-11-25 12:40,3846202,67,UMMIC2,Watermelon Marbles ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,22-11-25 12:37,3846182,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,22-11-25 12:13,3846057,10,UMMIM1,Mixed Berry Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,22-11-25 12:02,3845662,9,UMMIM10,Laban Mint Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,22-11-25 12:00,3845542,31,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,22-11-25 11:59,3845404,24,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,22-11-25 11:57,3845385,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,22-11-25 09:12,3844517,37,UMMIR14,Herb Mushroom Chicken With Farfalle Pesto ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,22-11-25 07:30,3844403,30,UMMIB2,Berry Sweet Tart Pot,Cash,Successful,Delivery,Vegeterian,Affordable
+Master,Machine A,21-11-25 22:54,3844056,9,UMMIM10,Laban Mint Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,21-11-25 22:47,3843920,9,UMMIM10,Laban Mint Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,21-11-25 21:01,3843564,30,UMMIB2,Berry Sweet Tart Pot,Cash,Successful,Delivery,Vegeterian,Affordable
+Master,Machine A,21-11-25 20:28,3843167,17,UMMIF1,Banana Berry Acai Bowl  ,Cash,Successful,Delivery,Gluten - Free,Affordable
+Master,Machine A,21-11-25 20:27,3843082,31,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,21-11-25 20:25,3842914,9,UMMIM10,Laban Mint Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,21-11-25 20:08,3842696,51,UMMIS12,Feta & Nut Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,21-11-25 20:07,3842533,30,UMMIB2,Berry Sweet Tart Pot,Cash,Successful,Delivery,Vegeterian,Affordable
+Master,Machine A,21-11-25 19:59,3842348,51,UMMIS12,Feta & Nut Salad,Cash,Successful,Delivery,Vegeterian,Standard
+Master,Machine A,21-11-25 19:40,3842221,67,UMMIC2,Watermelon Marbles ,Cash,Successful,Delivery,Vegeterian,Affordable
+Master,Machine A,21-11-25 18:18,3841852,64,UMMIR35,Yellow Dal Tadka with Basmati Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,21-11-25 18:03,3841607,57,UMMIV1,Falafel Wrap,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,21-11-25 17:43,3841184,30,UMMIB2,Berry Sweet Tart Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,21-11-25 17:05,3840322,64,UMMIR35,Yellow Dal Tadka with Basmati Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,21-11-25 15:51,3839318,27,UMMIS35,Grilled Chicken Wild Rice Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,21-11-25 15:42,3839227,67,UMMIC2,Watermelon Marbles ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,21-11-25 15:34,3838758,21,UMMIS6,Prawn Mango Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,21-11-25 15:26,3838233,27,UMMIS35,Grilled Chicken Wild Rice Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,21-11-25 15:24,3838067,24,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,21-11-25 15:18,3837585,10,UMMIM1,Mixed Berry Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,21-11-25 15:02,3836484,37,UMMIR14,Herb Mushroom Chicken With Farfalle Pesto ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,21-11-25 14:22,3834517,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,21-11-25 13:34,3831337,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,21-11-25 13:18,3829617,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,21-11-25 13:12,3829139,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,21-11-25 13:08,3828718,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,21-11-25 12:09,3825810,9,UMMIM10,Laban Mint Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,21-11-25 12:04,3825433,31,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,21-11-25 12:01,3825189,21,UMMIS6,Prawn Mango Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,21-11-25 09:19,3818197,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,21-11-25 09:05,3817709,24,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,21-11-25 07:50,3815840,31,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,20-11-25 19:23,3814437,54,UMMIS4,Tofu Teriyaki Poke Bowl,Cash,Successful,Delivery,Vegan,Standard
+Master,Machine A,20-11-25 18:21,3814040,17,UMMIF1,Banana Berry Acai Bowl  ,Cash,Successful,Delivery,Gluten - Free,Affordable
+Master,Machine A,20-11-25 17:25,3812823,67,UMMIC2,Watermelon Marbles ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,20-11-25 17:13,3812643,37,UMMIR14,Herb Mushroom Chicken With Farfalle Pesto ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,20-11-25 16:05,3810630,31,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,20-11-25 15:55,3810309,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,20-11-25 14:59,3806088,24,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,20-11-25 14:40,3805211,17,UMMIF1,Banana Berry Acai Bowl  ,Cash,Successful,Delivery,Gluten - Free,Affordable
+Master,Machine A,20-11-25 14:33,3804866,27,UMMIS35,Grilled Chicken Wild Rice Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,20-11-25 13:07,3794457,37,UMMIR14,Herb Mushroom Chicken With Farfalle Pesto ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,20-11-25 12:07,3786792,64,UMMIR35,Yellow Dal Tadka with Basmati Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,20-11-25 11:18,3783988,21,UMMIS6,Prawn Mango Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,20-11-25 09:15,3778736,24,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,20-11-25 09:05,3778488,1,UMMI10,Chicken Tikka Club with Brown Bread,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,20-11-25 07:25,3776486,51,UMMIS12,Feta & Nut Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,19-11-25 21:32,3776034,17,UMMIF1,Banana Berry Acai Bowl  ,Cash,Successful,Delivery,Gluten - Free,Affordable
+Master,Machine A,19-11-25 19:22,3774435,37,UMMIR14,Herb Mushroom Chicken With Farfalle Pesto ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,19-11-25 18:09,3772569,31,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,19-11-25 18:07,3772381,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,19-11-25 18:04,3772206,17,UMMIF1,Banana Berry Acai Bowl  ,Cash,Successful,Delivery,Gluten - Free,Affordable
+Master,Machine A,19-11-25 17:20,3771162,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,19-11-25 17:11,3770600,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,19-11-25 17:08,3770544,31,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,19-11-25 16:59,3770112,64,UMMIR35,Yellow Dal Tadka with Basmati Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,19-11-25 16:44,3769766,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,19-11-25 16:13,3768704,20,UMMIB4,Mango Tango Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,19-11-25 15:51,3768153,64,UMMIR35,Yellow Dal Tadka with Basmati Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,19-11-25 14:47,3763778,10,UMMIM1,Mixed Berry Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,19-11-25 13:34,3757709,1,UMMI10,Chicken Tikka Club with Brown Bread,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,19-11-25 13:08,3753340,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,19-11-25 12:10,3746048,24,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,19-11-25 12:05,3745692,31,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,19-11-25 12:04,3745597,10,UMMIM1,Mixed Berry Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,19-11-25 11:03,3741336,24,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,18-11-25 20:20,3729320,64,UMMIR35,Yellow Dal Tadka with Basmati Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,18-11-25 19:54,3728960,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,18-11-25 19:17,3728659,57,UMMIV1,Falafel Wrap,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,18-11-25 18:50,3728150,57,UMMIV1,Falafel Wrap,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,18-11-25 17:09,3726157,24,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,18-11-25 17:00,3725973,9,UMMIM10,Laban Mint Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,18-11-25 16:59,3725852,67,UMMIC2,Watermelon Marbles ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,18-11-25 16:55,3725528,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,18-11-25 16:30,3725148,9,UMMIM10,Laban Mint Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,18-11-25 16:29,3725051,57,UMMIV1,Falafel Wrap,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,18-11-25 16:10,3723983,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,18-11-25 15:32,3721585,31,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,18-11-25 15:27,3720898,10,UMMIM1,Mixed Berry Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,18-11-25 14:48,3718638,27,UMMIS35,Grilled Chicken Wild Rice Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,18-11-25 14:04,3715985,31,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,18-11-25 13:58,3715690,17,UMMIF1,Banana Berry Acai Bowl  ,Cash,Successful,Delivery,Gluten - Free,Affordable
+Master,Machine A,18-11-25 13:34,3712236,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,18-11-25 13:29,3711653,10,UMMIM1,Mixed Berry Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,18-11-25 13:07,3709273,37,UMMIR14,Herb Mushroom Chicken With Farfalle Pesto ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,18-11-25 11:58,3702430,24,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,18-11-25 10:42,3696816,10,UMMIM1,Mixed Berry Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,18-11-25 09:24,3692686,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,18-11-25 09:15,3692207,21,UMMIS6,Prawn Mango Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,18-11-25 09:14,3692147,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,17-11-25 23:29,3688377,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,17-11-25 19:47,3687275,67,UMMIC2,Watermelon Marbles ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,17-11-25 19:34,3687137,27,UMMIS35,Grilled Chicken Wild Rice Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,17-11-25 19:30,3686974,20,UMMIB4,Mango Tango Pot,Cash,Successful,Delivery,Vegeterian,Affordable
+Master,Machine A,17-11-25 19:28,3686744,64,UMMIR35,Yellow Dal Tadka with Basmati Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,17-11-25 19:21,3686227,67,UMMIC2,Watermelon Marbles ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,17-11-25 19:16,3686028,64,UMMIR35,Yellow Dal Tadka with Basmati Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,17-11-25 19:03,3685789,20,UMMIB4,Mango Tango Pot,Cash,Successful,Delivery,Vegeterian,Affordable
+Master,Machine A,17-11-25 18:55,3685573,54,UMMIS4,Tofu Teriyaki Poke Bowl,Cash,Successful,Delivery,Vegan,Standard
+Master,Machine A,17-11-25 17:42,3684052,27,UMMIS35,Grilled Chicken Wild Rice Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,17-11-25 16:44,3681049,30,UMMIB2,Berry Sweet Tart Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,17-11-25 16:01,3678504,9,UMMIM10,Laban Mint Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,17-11-25 15:13,3675406,30,UMMIB2,Berry Sweet Tart Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,17-11-25 15:00,3674140,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,17-11-25 13:50,3667178,51,UMMIS12,Feta & Nut Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,17-11-25 13:10,3660474,21,UMMIS6,Prawn Mango Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,17-11-25 12:49,3657022,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,17-11-25 12:38,3655399,24,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,17-11-25 12:08,3652334,54,UMMIS4,Tofu Teriyaki Poke Bowl,Cash,Successful,Delivery,Vegan,Standard
+Master,Machine A,17-11-25 11:21,3648263,1,UMMI10,Chicken Tikka Club with Brown Bread,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,17-11-25 09:59,3641856,9,UMMIM10,Laban Mint Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,17-11-25 09:51,3640983,21,UMMIS6,Prawn Mango Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,17-11-25 08:44,3637828,24,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,17-11-25 08:43,3637745,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,16-11-25 12:36,3634532,64,UMMIR35,Yellow Dal Tadka with Basmati Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,15-11-25 22:10,3634037,67,UMMIG2,Vegan Burrito Bowl,Cash,Successful,Delivery,Vegan,Premium
+Master,Machine A,15-11-25 19:38,3633887,8,UMMIJ4,Pomegranate Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,15-11-25 19:34,3633745,27,UMMIR17,BBQ Prawns with Fusilli Pasta,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,15-11-25 19:27,3633576,14,UMMIC1,Fruit Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,15-11-25 18:35,3633226,8,UMMIJ4,Pomegranate Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,15-11-25 18:34,3633188,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,15-11-25 18:25,3633028,10,UMMIM4,Mango Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,15-11-25 17:02,3631688,1,UMMIS32,Chicken Guacamole Wrap,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,15-11-25 14:39,3630255,61,UMMIS30,Labneh and Zaatar in Brown Bread,Cash,Successful,Delivery,Bakery,Standard
+Master,Machine A,15-11-25 14:32,3630170,57,UMMIV8,Egg Mayo Sandwich with Brown Bread ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,15-11-25 14:11,3629865,10,UMMIM4,Mango Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,15-11-25 14:07,3629608,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,15-11-25 14:02,3629393,17,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,15-11-25 13:20,3629060,31,UMMIR16,Chicken Tandoori with Basil Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,15-11-25 09:55,3626761,51,UMMIS31,Cheese Croissant,Cash,Successful,Delivery,Bakery,Standard
+Master,Machine A,15-11-25 09:53,3626662,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,15-11-25 09:20,3626172,21,UMMIS3,Chicken & Yuzu Poke Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,14-11-25 21:04,3624000,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,14-11-25 21:00,3623981,67,UMMIG2,Vegan Burrito Bowl,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,14-11-25 20:23,3623841,67,UMMIG2,Vegan Burrito Bowl,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,14-11-25 18:18,3622607,64,UMMIR35,Yellow Dal Tadka with Basmati Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,14-11-25 17:15,3621295,27,UMMIR17,BBQ Prawns with Fusilli Pasta,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,14-11-25 17:07,3621119,21,UMMIS3,Chicken & Yuzu Poke Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,14-11-25 16:36,3620418,8,UMMIJ4,Pomegranate Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,14-11-25 16:07,3619920,10,UMMIM4,Mango Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,14-11-25 15:58,3619447,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,14-11-25 15:56,3619207,21,UMMIS3,Chicken & Yuzu Poke Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,14-11-25 15:55,3619105,61,UMMIS30,Labneh and Zaatar in Brown Bread,Cash,Successful,Delivery,Bakery,Standard
+Master,Machine A,14-11-25 15:17,3617164,10,UMMIM4,Mango Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,14-11-25 15:07,3616758,30,UMMIB2,Berry Sweet Tart Pot,Cash,Successful,Delivery,Vegeterian,Affordable
+Master,Machine A,14-11-25 15:05,3616455,14,UMMIC1,Fruit Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,14-11-25 14:20,3614526,30,UMMIB2,Berry Sweet Tart Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,14-11-25 14:19,3614423,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,14-11-25 14:04,3613994,17,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,14-11-25 13:59,3612919,27,UMMIR17,BBQ Prawns with Fusilli Pasta,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,14-11-25 13:52,3611924,30,UMMIB2,Berry Sweet Tart Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,14-11-25 13:50,3611738,31,UMMIR16,Chicken Tandoori with Basil Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,14-11-25 12:42,3606427,61,UMMIS30,Labneh and Zaatar in Brown Bread,Cash,Successful,Delivery,Bakery,Standard
+Master,Machine A,14-11-25 12:14,3604929,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,14-11-25 12:02,3604658,8,UMMIJ4,Pomegranate Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,14-11-25 09:26,3596710,51,UMMIS31,Cheese Croissant,Cash,Successful,Delivery,Bakery,Standard
+Master,Machine A,14-11-25 09:13,3596288,57,UMMIV8,Egg Mayo Sandwich with Brown Bread ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,14-11-25 09:12,3596080,17,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,13-11-25 17:53,3590750,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,13-11-25 17:50,3590660,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,13-11-25 17:04,3589824,61,UMMIS30,Labneh and Zaatar in Brown Bread,Cash,Successful,Delivery,Bakery,Standard
+Master,Machine A,13-11-25 17:03,3589714,51,UMMIS31,Cheese Croissant,Cash,Successful,Delivery,Bakery,Standard
+Master,Machine A,13-11-25 16:16,3588634,21,UMMIS3,Chicken & Yuzu Poke Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,13-11-25 15:58,3587722,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,13-11-25 15:53,3587555,14,UMMIC1,Fruit Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,13-11-25 15:17,3585748,27,UMMIR17,BBQ Prawns with Fusilli Pasta,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,13-11-25 14:56,3583935,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,13-11-25 13:36,3580918,21,UMMIS3,Chicken & Yuzu Poke Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,13-11-25 13:34,3580879,17,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,13-11-25 13:11,3578367,31,UMMIR16,Chicken Tandoori with Basil Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,13-11-25 12:05,3570273,61,UMMIS30,Labneh and Zaatar in Brown Bread,Cash,Successful,Delivery,Bakery,Standard
+Master,Machine A,13-11-25 11:58,3569720,31,UMMIR16,Chicken Tandoori with Basil Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,13-11-25 11:55,3569569,21,UMMIS3,Chicken & Yuzu Poke Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,13-11-25 11:21,3567408,51,UMMIS31,Cheese Croissant,Cash,Successful,Delivery,Bakery,Standard
+Master,Machine A,13-11-25 11:10,3566536,27,UMMIR17,BBQ Prawns with Fusilli Pasta,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,13-11-25 09:26,3560210,27,UMMIR17,BBQ Prawns with Fusilli Pasta,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,12-11-25 21:51,3556177,8,UMMIJ4,Pomegranate Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,12-11-25 20:00,3555088,8,UMMIJ4,Pomegranate Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,12-11-25 17:04,3552313,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,12-11-25 16:29,3550198,21,UMMIS3,Chicken & Yuzu Poke Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,12-11-25 16:09,3549366,10,UMMIM4,Mango Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,12-11-25 16:07,3549297,21,UMMIS3,Chicken & Yuzu Poke Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,12-11-25 15:38,3548350,57,UMMIV8,Egg Mayo Sandwich with Brown Bread ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,12-11-25 15:20,3547196,31,UMMIR16,Chicken Tandoori with Basil Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,12-11-25 15:11,3546569,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,12-11-25 15:06,3546171,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,12-11-25 15:03,3546082,17,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,12-11-25 14:12,3543561,8,UMMIJ4,Pomegranate Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,12-11-25 13:38,3540224,27,UMMIR17,BBQ Prawns with Fusilli Pasta,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,12-11-25 13:23,3539024,27,UMMIR17,BBQ Prawns with Fusilli Pasta,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,12-11-25 13:22,3538721,21,UMMIS3,Chicken & Yuzu Poke Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,12-11-25 12:11,3530123,8,UMMIJ4,Pomegranate Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,12-11-25 11:56,3528749,64,UMMIR35,Yellow Dal Tadka with Basmati Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,12-11-25 11:51,3528610,14,UMMIC1,Fruit Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,12-11-25 11:48,3528305,31,UMMIR16,Chicken Tandoori with Basil Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,12-11-25 11:21,3526644,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,12-11-25 11:13,3525905,30,UMMIB2,Berry Sweet Tart Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,12-11-25 09:24,3518870,17,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,12-11-25 09:23,3518783,30,UMMIB2,Berry Sweet Tart Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,12-11-25 09:16,3518642,30,UMMIB2,Berry Sweet Tart Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,12-11-25 09:11,3518059,27,UMMIR17,BBQ Prawns with Fusilli Pasta,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,12-11-25 01:26,3513002,27,UMMIR17,BBQ Prawns with Fusilli Pasta,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,11-11-25 17:10,3510132,27,UMMIR17,BBQ Prawns with Fusilli Pasta,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,11-11-25 16:06,3508192,17,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,11-11-25 16:04,3507956,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,11-11-25 14:00,3501615,10,UMMIM4,Mango Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,11-11-25 13:52,3501064,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,11-11-25 13:48,3500848,57,UMMIV8,Egg Mayo Sandwich with Brown Bread ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,11-11-25 13:39,3500366,64,UMMIR35,Yellow Dal Tadka with Basmati Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,11-11-25 12:24,3493282,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,11-11-25 12:23,3492809,31,UMMIR16,Chicken Tandoori with Basil Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,11-11-25 11:22,3489101,8,UMMIJ4,Pomegranate Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,11-11-25 11:18,3488854,27,UMMIR17,BBQ Prawns with Fusilli Pasta,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,11-11-25 10:39,3486004,14,UMMIC1,Fruit Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,10-11-25 23:40,3479115,10,UMMIM4,Mango Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,10-11-25 19:08,3477643,64,UMMIR35,Yellow Dal Tadka with Basmati Rice,Cash,Successful,Delivery,Vegetarian,Premium
+Master,Machine A,10-11-25 19:07,3477579,30,UMMIB2,Berry Sweet Tart Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,10-11-25 18:11,3476585,8,UMMIJ4,Pomegranate Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,10-11-25 18:01,3476247,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,10-11-25 17:59,3476077,17,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,10-11-25 17:20,3474804,17,UMMIR10,Creamy Chicken Pesto with Chunky Red Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,10-11-25 17:10,3474423,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,10-11-25 17:07,3474207,8,UMMIJ4,Pomegranate Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,10-11-25 17:03,3474193,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,10-11-25 16:50,3473020,30,UMMIB2,Berry Sweet Tart Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,10-11-25 16:13,3471411,31,UMMIR16,Chicken Tandoori with Basil Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,10-11-25 15:46,3470777,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,10-11-25 15:20,3469841,14,UMMIC1,Fruit Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,10-11-25 15:15,3469421,8,UMMIJ4,Pomegranate Juice,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,10-11-25 15:14,3469357,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,10-11-25 15:06,3468650,11,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,10-11-25 14:07,3465564,21,UMMIS3,Chicken & Yuzu Poke Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,10-11-25 14:06,3465486,27,UMMIR17,BBQ Prawns with Fusilli Pasta,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,10-11-25 14:03,3465231,27,UMMIR17,BBQ Prawns with Fusilli Pasta,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,10-11-25 13:45,3463607,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,10-11-25 13:18,3461143,30,UMMIB2,Berry Sweet Tart Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,10-11-25 13:04,3459008,21,UMMIS3,Chicken & Yuzu Poke Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,10-11-25 11:09,3450164,21,UMMIS3,Chicken & Yuzu Poke Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,10-11-25 09:19,3444842,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,08-11-25 18:35,3438531,61,UMMIS2,Quinoa Nut Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,08-11-25 17:17,3438333,41,UMMIR27,Steamed Rice with Butter Chicken ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,08-11-25 17:09,3438282,67,UMMIS20,Mediterranean Artichoke salad ,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,08-11-25 15:35,3437316,31,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,08-11-25 15:31,3437167,17,UMMIF3,Mango Berry Cacao Bowl ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,08-11-25 13:02,3435460,27,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,08-11-25 12:44,3434806,37,UMMIR11,Chicken Strips with Sushi Rice ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,08-11-25 09:34,3432551,64,UMMIV1,Falafel Wrap,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,08-11-25 09:16,3432356,21,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,07-11-25 22:05,3431647,64,UMMIV1,Falafel Wrap,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,07-11-25 20:36,3430921,20,UMMIB6,Avo-licious Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,07-11-25 19:45,3430596,17,UMMIF3,Mango Berry Cacao Bowl ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,07-11-25 19:28,3430401,30,UMMIB5,Peanut Butter Strawberry Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,07-11-25 19:10,3430275,27,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,07-11-25 18:35,3429662,61,UMMIS2,Quinoa Nut Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,07-11-25 18:10,3428832,67,UMMIS20,Mediterranean Artichoke salad ,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,07-11-25 17:28,3427830,1,UMMIV2,Dynamite Chicken Sandwich on Brown Bread,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,07-11-25 16:43,3426440,41,UMMIR27,Steamed Rice with Butter Chicken ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,07-11-25 16:18,3425912,41,UMMIR27,Steamed Rice with Butter Chicken ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,07-11-25 16:10,3425713,30,UMMIB5,Peanut Butter Strawberry Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,07-11-25 16:01,3425556,10,UMMIM3,Strawberry Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,07-11-25 15:49,3425190,27,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,07-11-25 14:38,3423680,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,07-11-25 14:14,3422494,20,UMMIB6,Avo-licious Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,07-11-25 14:05,3421870,30,UMMIB5,Peanut Butter Strawberry Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,07-11-25 14:00,3421295,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,07-11-25 13:54,3420590,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,07-11-25 13:52,3420214,37,UMMIR11,Chicken Strips with Sushi Rice ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,07-11-25 12:45,3413276,31,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,07-11-25 12:44,3413151,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,07-11-25 12:40,3412896,1,UMMIV2,Dynamite Chicken Sandwich on Brown Bread,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,07-11-25 12:30,3412120,17,UMMIF3,Mango Berry Cacao Bowl ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,07-11-25 12:28,3412047,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,07-11-25 12:27,3411824,21,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,07-11-25 11:59,3410033,21,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,07-11-25 11:44,3408936,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,07-11-25 09:51,3404082,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,07-11-25 09:22,3402836,31,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,07-11-25 09:17,3402673,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,07-11-25 08:22,3400517,20,UMMIB6,Avo-licious Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,06-11-25 20:37,3397629,61,UMMIS2,Quinoa Nut Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,06-11-25 20:09,3397113,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,06-11-25 18:26,3396009,27,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,06-11-25 17:06,3393919,17,UMMIF3,Mango Berry Cacao Bowl ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,06-11-25 16:08,3392038,31,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,06-11-25 16:05,3391903,31,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,06-11-25 16:03,3391554,21,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,06-11-25 14:06,3385653,21,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,06-11-25 14:04,3385594,27,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,06-11-25 13:52,3384821,30,UMMIB5,Peanut Butter Strawberry Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,06-11-25 13:09,3381059,20,UMMIB6,Avo-licious Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,06-11-25 12:53,3378637,41,UMMIR27,Steamed Rice with Butter Chicken ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,06-11-25 12:52,3378226,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,06-11-25 11:00,3368660,1,UMMIV2,Dynamite Chicken Sandwich on Brown Bread,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,06-11-25 10:24,3366014,17,UMMIF3,Mango Berry Cacao Bowl ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,05-11-25 23:07,3357938,10,UMMIM3,Strawberry Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,05-11-25 19:07,3356041,10,UMMIM3,Strawberry Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,05-11-25 19:02,3355952,20,UMMIB6,Avo-licious Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,05-11-25 18:01,3353784,67,UMMIS20,Mediterranean Artichoke salad ,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,05-11-25 18:00,3353687,41,UMMIR27,Steamed Rice with Butter Chicken ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,05-11-25 17:16,3352064,41,UMMIR27,Steamed Rice with Butter Chicken ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,05-11-25 16:57,3350899,21,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,05-11-25 16:30,3349189,17,UMMIF3,Mango Berry Cacao Bowl ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,05-11-25 15:57,3347270,31,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,05-11-25 15:42,3346146,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,05-11-25 15:21,3344901,27,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,05-11-25 14:40,3341674,37,UMMIR11,Chicken Strips with Sushi Rice ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,05-11-25 14:27,3340684,31,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,05-11-25 14:26,3340559,30,UMMIB5,Peanut Butter Strawberry Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,05-11-25 14:24,3340209,64,UMMIV1,Falafel Wrap,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,05-11-25 14:23,3339993,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,05-11-25 14:21,3339470,21,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,05-11-25 14:15,3338704,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,05-11-25 14:07,3337996,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,05-11-25 13:28,3334353,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,05-11-25 13:23,3333338,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,05-11-25 13:22,3333016,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,05-11-25 13:17,3332592,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,05-11-25 12:13,3324435,61,UMMIS2,Quinoa Nut Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,05-11-25 12:03,3323595,27,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,05-11-25 11:07,3317156,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,05-11-25 09:22,3310453,17,UMMIF3,Mango Berry Cacao Bowl ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,05-11-25 09:05,3309467,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,04-11-25 17:57,3302876,17,UMMIF3,Mango Berry Cacao Bowl ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,04-11-25 17:28,3302398,1,UMMIV2,Dynamite Chicken Sandwich on Brown Bread,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,04-11-25 17:12,3301847,64,UMMIV1,Falafel Wrap,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,04-11-25 16:25,3301031,31,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,04-11-25 16:08,3300753,41,UMMIR27,Steamed Rice with Butter Chicken ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,04-11-25 16:06,3300608,31,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,04-11-25 16:04,3300529,21,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,04-11-25 15:42,3299274,1,UMMIV2,Dynamite Chicken Sandwich on Brown Bread,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,04-11-25 14:31,3295517,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,04-11-25 14:21,3295099,11,UMMIV4,Chicken Caesar Wrap ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,04-11-25 13:21,3287765,41,UMMIR27,Steamed Rice with Butter Chicken ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,04-11-25 13:15,3287107,27,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,04-11-25 12:32,3280881,17,UMMIF3,Mango Berry Cacao Bowl ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,04-11-25 11:40,3275497,27,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,04-11-25 09:13,3266021,21,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,03-11-25 19:32,3261814,10,UMMIM3,Strawberry Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,03-11-25 18:10,3260652,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,03-11-25 17:31,3259978,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,03-11-25 17:00,3259407,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,03-11-25 16:29,3258266,9,UMMIJ2,Orange Juice Fresh ,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,03-11-25 16:10,3257509,20,UMMIB6,Avo-licious Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,03-11-25 15:39,3256206,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,03-11-25 14:10,3250659,41,UMMIR27,Steamed Rice with Butter Chicken ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,03-11-25 13:49,3249228,20,UMMIB6,Avo-licious Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,03-11-25 13:25,3246278,67,UMMIS20,Mediterranean Artichoke salad ,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,03-11-25 13:24,3246069,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,03-11-25 13:07,3242496,27,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,03-11-25 13:01,3241477,10,UMMIM3,Strawberry Smoothie,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,03-11-25 12:37,3237830,61,UMMIS2,Quinoa Nut Salad,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,03-11-25 12:04,3233830,41,UMMIR27,Steamed Rice with Butter Chicken ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,03-11-25 11:54,3233012,17,UMMIF3,Mango Berry Cacao Bowl ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,03-11-25 11:52,3232600,27,UMMIR12,Chicken Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,03-11-25 11:21,3231549,31,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,03-11-25 11:19,3231365,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,03-11-25 11:18,3231056,8,UMMIJ5,Watermelon Juice Fresh,Cash,Successful,Delivery,Beverage,Affordable
+Master,Machine A,03-11-25 11:08,3230011,37,UMMIR11,Chicken Strips with Sushi Rice ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,03-11-25 09:56,3225784,20,UMMIB6,Avo-licious Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,03-11-25 09:54,3225671,21,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,03-11-25 09:29,3224638,21,UMMIS1,Pasta & Herb Chicken Salad,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,03-11-25 09:24,3224536,20,UMMIB6,Avo-licious Pot,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,03-11-25 09:23,3224375,31,UMMIG1,Grilled Chicken Burrito Bowl,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,03-11-25 08:48,3223924,17,UMMIF3,Mango Berry Cacao Bowl ,Cash,Successful,Delivery,Vegetarian,Affordable
+Master,Machine A,01-11-25 15:41,3220142,41,UMMIR14,Herb Mushroom Chicken With Farfalle Pesto ,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,01-11-25 15:15,3219877,11,UMMIV10,Fajita Chicken Wrap,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,01-11-25 14:55,3219529,1,UMMI10,Chicken Tikka Club with Brown Bread,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,01-11-25 14:41,3219243,21,UMMIS17,Chicken Brown & Wild Rice Salad ,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,01-11-25 13:26,3218434,67,UMMIV9,Tomato Mozzarella Pesto Sandwich ,Cash,Successful,Delivery,Bakery,Standard
+Master,Machine A,01-11-25 13:05,3218111,27,UMMIR18,Prawn Biryani,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,01-11-25 12:05,3217859,37,UMMIR16,Chicken Tandoori with Basil Rice,Cash,Successful,Delivery,Non vegetarian,Premium
+Master,Machine A,01-11-25 10:11,3217282,31,UMMIS3,Chicken & Yuzu Poke Bowl,Cash,Successful,Delivery,Non vegetarian,Standard
+Master,Machine A,01-11-25 09:50,3217168,61,UMMIS7,Pumpkin & Beetroot Salad with Orange Vinaigrette,Cash,Successful,Delivery,Vegetarian,Standard
+Master,Machine A,01-11-25 08:56,3216972,17,UMMIF1,Banana Berry Acai Bowl  ,Cash,Successful,Delivery,Gluten - Free,Affordable
